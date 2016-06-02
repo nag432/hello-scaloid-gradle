@@ -18,7 +18,7 @@ apply plugin: "jp.leafytree.android-scala"
 
 android {
     // Can be built with API Level 16 or higher, while this app retains runtime compatibility from API Level 10. Please refer to targetSdkVersion property
-    compileSdkVersion "android-16"
+    compileSdkVersion "24.0.0-preview"
     buildToolsVersion "22.0.1"
 	
     defaultConfig {
